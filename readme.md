@@ -1,0 +1,3 @@
+# Temple Run VR
+
+This project is a virtual reality version of the popular mobile game called temple run. In this project, we have used unity to recreate the infinite runner game and then built it on an android device. We used the accelerometer and gyroscope present in the smartphone to control the player. The files present in our game were too big to be uploaded on github, So here we have provided a [google drive link](https://drive.google.com/drive/folders/15b_ioz9-ey9-pH49q28OtmqId08TkqvV?usp=sharing) to access the files.
